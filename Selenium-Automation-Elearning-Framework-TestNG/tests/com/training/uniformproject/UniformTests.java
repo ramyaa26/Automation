@@ -28,7 +28,7 @@ public class UniformTests{
 	private static Properties properties;
 	private LoginPOM loginPOM;
 	
-	
+	//test
     @BeforeClass
 	public static void setUpBeforeClass() throws IOException {
 		properties = new Properties();
